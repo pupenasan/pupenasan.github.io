@@ -7,6 +7,7 @@
 
 # Загально доступні проекти
 
+- [Git для всіх](https://pupenasan.github.io/Git4All)
 - [Довідник з Node-RED](https://pupenasan.github.io/NodeREDGuidUKR)
 - [Англо-український тлумачний словник термінів в АСКТП (автоматизованих системах керування технологічними процесами)](https://pupenasan.github.io/ControlDict)
 - Каркас для ПЛК
