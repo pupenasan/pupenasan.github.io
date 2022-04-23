@@ -15,12 +15,18 @@
   - [Простий приклад для курсового проекту](https://github.com/pupenasan/pikursexmpl)
 - [Технології Індустрії 4.0](https://github.com/pupenasan/TI40)
 - [Розробка і імітаційне моделювання інтегрованих систем керування](https://github.com/pupenasan/rimit)
-- Автоматизовані системи управління (MES рівень)
+- [Автоматизовані системи управління (MES рівень)](https://pupenasan.github.io/MOMdisc/)
   - [імітатор обєкту на Node-RED для лабораторних робіт MOM](https://github.com/pupenasan/MOMlabsim)
-
 - [Контролери та їх програмне забезпечення Модуль 2](https://github.com/pupenasan/kpz2)
 
-## Електронні видання 
+Колись вів дисципліни:
+
+- [Промислові мережі](https://github.com/pupenasan/fieldbus)
+- [Проектування компютерно-іентгрованих систем керування](https://github.com/pupenasan/pkis)
+
+- [Batch Control](https://github.com/pupenasan/batchcontrol)
+
+## Електронні посібники та довідники
 
 - [Промислові мережі та інтеграційні технології](https://pupenasan.github.io/fieldbusbook/2010/)
 - [Розроблення людино-машинних інтерфейсів та систем збирання даних з використанням програмних засобів SCADA/HMI](https://pupenasan.github.io/hmibook/)
