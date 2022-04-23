@@ -1,6 +1,8 @@
 ![](foto.jpg)
 
-**Олександр Пупена (Oleksandr Pupena)**
+**Сторінка Олександра Пупени (Oleksandr Pupena)**
+
+[Веб версія](https://pupenasan.github.io/)
 
 - Asoc. professor National University of Food Technologies, Kyiv, Ukraine. The [Automation and Computer Technologies of Control Systems Department](https://www.iasu-nuft.pp.ua/staff)
 - Member [i4u](https://www.i4u.in.ua/team).
