@@ -36,6 +36,7 @@
 - [Розроблення людино-машинних інтерфейсів та систем збирання даних з використанням програмних засобів SCADA/HMI](https://pupenasan.github.io/hmibook/)
 - [Програмування промислових контролерів в Unity PRO та Control Expert](https://pupenasan.github.io/controlexpertbook/)
 - [Довідник з Node-RED](https://pupenasan.github.io/NodeREDGuidUKR)
+- [Автоматизація промислових виробництв. Ельперін І.В. Пупена О.М. Сідлецький В.М. Швед С.М.](https://pupenasan.github.io/avpbook/)
 
 ## Інші загальнодоступні проекти
 
