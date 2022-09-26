@@ -22,6 +22,7 @@
 - [Автоматизовані системи управління (MES рівень)](https://pupenasan.github.io/MOMdisc/)
   - [імітатор обєкту на Node-RED для лабораторних робіт MOM](https://github.com/pupenasan/MOMlabsim)
 - [Контролери та їх програмне забезпечення Модуль 2](https://github.com/pupenasan/kpz2)
+- [Комп'ютерні мережі та розподілені системи](https://github.com/pupenasan/cmputernetwork)
 
 Колись вів дисципліни:
 
@@ -45,6 +46,9 @@
   - [PACFrameworkIoTGateway](https://github.com/pupenasan/PACFrameworkIoTGateway)
 - [Git для всіх](https://pupenasan.github.io/Git4All)
 - [Англо-український тлумачний словник термінів в АСКТП](https://github.com/pupenasan/ControlDict)
+- [Гранти в Індустрії 4.0](https://pupenasan.github.io/grants/)
+- [Підкасти "Довкола автоматики"](https://youtube.com/playlist?list=PLgPzuQLDYQEOw2YDBEYONvg8CaHZgYjBf)
+- [Технічний день автоматизації (ТДА)](tda.in.ua)
 
 ## Professional skills
 
