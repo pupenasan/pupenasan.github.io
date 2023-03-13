@@ -11,6 +11,7 @@
 - [Linkedin](https://www.linkedin.com/in/oleksandr-pupena-67aa0b33/)
 - [Facebook](https://www.facebook.com/fieldbusbook)
 - [YouTube](https://www.youtube.com/c/OleksandrPupena)
+- канал Телеграм https://t.me/+7n6AhGnkEuM1MmJi
 
 ## Дисципліни
 
