@@ -83,14 +83,15 @@ Author of 5 books and many guides, all available online <https://github.com/pupe
 
 Below are the main partner companies and some projects in which I participated. 
 
-| Dates     | Partner company                                          | Position                           | Description                                                  |
-| --------- | -------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------ |
-| 2002-2023 | DDAT Ltd. (<http://prat.com.ua/>)                        | SCADA/PLC programmer               | sugar production, dairy production, gas distribution stations |
-| 2017-2020 | LWT Engineering Ltd (<https://lwtengineering.com.ua/>)   | SCADA/PLC programmer               | water treatment control system                               |
-| 2014-2020 | Sautkom Ltd. (<http://sautcom.kiev.ua/>)                 | SCADA/PLC programmer               | sugar production                                             |
-| 2018-2019 | Inter Atom  Instrument Ltd.                              | SCADA/PLC programmer               | Subsystem of  the radiation monitoring of the release through the NSC ventstack of NSC  Radiation Monitoring System. CHERNOBYL NPP containment |
-| 2020-2022 | Smart Industry Group ltd. (<https://sig-automation.com>) | SCADA/PLC programmer               | machinery, chemical production                               |
-| 2002-2023 | DDAT Ltd. (<http://prat.com.ua/>)                        | teacher Schneider Electric Ukraine | courses: SCADA/HMI, PLC, fieldbus, IIoT                      |
+| Dates     | Partner company                                              | Position                           | Description                                                  |
+| --------- | ------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------ |
+| 2019-2023 | Department of Automation of Heat and Power Engineering Processes of National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”  (https://atep.kpi.ua/) | association professor              | teaches disciplines                                          |
+| 2002-2023 | DDAT Ltd. (<http://prat.com.ua/>)                            | SCADA/PLC programmer               | sugar production, dairy production, gas distribution stations |
+| 2017-2020 | LWT Engineering Ltd (<https://lwtengineering.com.ua/>)       | SCADA/PLC programmer               | water treatment control system                               |
+| 2014-2020 | Sautkom Ltd. (<http://sautcom.kiev.ua/>)                     | SCADA/PLC programmer               | sugar production                                             |
+| 2018-2019 | Inter Atom  Instrument Ltd.                                  | SCADA/PLC programmer               | Subsystem of  the radiation monitoring of the release through the NSC ventstack of NSC  Radiation Monitoring System. CHERNOBYL NPP containment |
+| 2020-2022 | Smart Industry Group ltd. (<https://sig-automation.com>)     | SCADA/PLC programmer               | machinery, chemical production                               |
+| 2002-2023 | DDAT Ltd. (<http://prat.com.ua/>)                            | teacher Schneider Electric Ukraine | courses: SCADA/HMI, PLC, fieldbus, IIoT                      |
 
 ## REFERENCES
 
