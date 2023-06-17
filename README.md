@@ -13,6 +13,8 @@
 - [YouTube](https://www.youtube.com/c/OleksandrPupena)
 - канал Телеграм https://t.me/+7n6AhGnkEuM1MmJi
 
+- [Резюме (CV)](cv.md)
+
 ## Дисципліни
 
 - [Людино-машинні інтерфейси](https://github.com/pupenasan/hmi)
