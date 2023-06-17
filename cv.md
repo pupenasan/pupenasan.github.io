@@ -20,15 +20,15 @@
 
 ## Profiles 
 
-**Facebook**: https://www.facebook.com/pupena.san/
+**Facebook**: <https://www.facebook.com/pupena.san/>
 
-**LinkedIn**: https://www.linkedin.com/in/oleksandr-pupena-67aa0b33/
+**LinkedIn**: <https://www.linkedin.com/in/oleksandr-pupena-67aa0b33/>
 
-**YouTube**: https://www.youtube.com/channel/UCc6VjvU3rous2W1he7BCKkg
+**YouTube**: <https://www.youtube.com/channel/UCc6VjvU3rous2W1he7BCKkg>
 
-**GitHub**: https://github.com/pupenasan
+**GitHub**: <https://github.com/pupenasan>
 
-**Department**: https://www.iasu-nuft.pp.ua/about-5 
+**Department**: <https://www.iasu-nuft.pp.ua/about-5> 
 
 ## Scientific and professional direction, skills
 
@@ -56,9 +56,9 @@
 
 ## Membership of professional bodies
 
-- Association of Industrial Automation of Ukraine https://appau.org.ua/
-- technical committee 185 (Industrial Automation) of Ukrainian national standardization department https://tk185.appau.org.ua/
-- i4u Team www.i4u.in.ua
+- Association of Industrial Automation of Ukraine <https://appau.org.ua/>
+- technical committee 185 (Industrial Automation) of Ukrainian national standardization department <https://tk185.appau.org.ua/>
+- i4u Team <www.i4u.in.ua>
 
 ## Education
 
@@ -74,23 +74,23 @@
 
 | Dates             | Company                                  | Position            | Description                                                  |
 | ----------------- | ---------------------------------------- | ------------------- | ------------------------------------------------------------ |
-| 11.2004 - 01.2009 | National University of Food Technologies | assistant           | teaches disciplines, writes articles and books, https://www.iasu-nuft.pp.ua/about-5 |
-| 02.2009 - now     | National University of Food Technologies | associate professor | wrote articles and books, https://www.iasu-nuft.pp.ua/about-5 |
+| 11.2004 - 01.2009 | National University of Food Technologies | assistant           | teaches disciplines, writes articles and books, <https://www.iasu-nuft.pp.ua/about-5> |
+| 02.2009 - now     | National University of Food Technologies | associate professor | wrote articles and books, <https://www.iasu-nuft.pp.ua/about-5> |
 
-Author of 5 books and many guides, all available online https://github.com/pupenasan
+Author of 5 books and many guides, all available online <https://github.com/pupenasan>
 
 ### Part-time work
 
 Below are the main partner companies and some projects in which I participated. 
 
-| Dates     | Partner company                                        | Position                           | Description                                                  |
-| --------- | ------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------ |
-| 2002-2023 | DDAT Ltd. (http://prat.com.ua/)                        | SCADA/PLC programmer               | sugar production, dairy production, gas distribution stations |
-| 2017-2020 | LWT Engineering Ltd (https://lwtengineering.com.ua/)   | SCADA/PLC programmer               | water treatment control system                               |
-| 2014-2020 | Sautkom Ltd. (http://sautcom.kiev.ua/)                 | SCADA/PLC programmer               | sugar production                                             |
-| 2018-2019 | Inter Atom  Instrument Ltd.                            | SCADA/PLC programmer               | Subsystem of  the radiation monitoring of the release through the NSC ventstack of NSC  Radiation Monitoring System. CHERNOBYL NPP containment |
-| 2020-2022 | Smart Industry Group ltd. (https://sig-automation.com) | SCADA/PLC programmer               | machinery, chemical production                               |
-| 2002-2023 | DDAT Ltd. (http://prat.com.ua/)                        | teacher Schneider Electric Ukraine | courses: SCADA/HMI, PLC, fieldbus, IIoT                      |
+| Dates     | Partner company                                          | Position                           | Description                                                  |
+| --------- | -------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------ |
+| 2002-2023 | DDAT Ltd. (<http://prat.com.ua/>)                        | SCADA/PLC programmer               | sugar production, dairy production, gas distribution stations |
+| 2017-2020 | LWT Engineering Ltd (<https://lwtengineering.com.ua/>)   | SCADA/PLC programmer               | water treatment control system                               |
+| 2014-2020 | Sautkom Ltd. (<http://sautcom.kiev.ua/>)                 | SCADA/PLC programmer               | sugar production                                             |
+| 2018-2019 | Inter Atom  Instrument Ltd.                              | SCADA/PLC programmer               | Subsystem of  the radiation monitoring of the release through the NSC ventstack of NSC  Radiation Monitoring System. CHERNOBYL NPP containment |
+| 2020-2022 | Smart Industry Group ltd. (<https://sig-automation.com>) | SCADA/PLC programmer               | machinery, chemical production                               |
+| 2002-2023 | DDAT Ltd. (<http://prat.com.ua/>)                        | teacher Schneider Electric Ukraine | courses: SCADA/HMI, PLC, fieldbus, IIoT                      |
 
 ## REFERENCES
 
