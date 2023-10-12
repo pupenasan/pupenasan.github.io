@@ -26,6 +26,7 @@
   - [імітатор обєкту на Node-RED для лабораторних робіт MOM](https://github.com/pupenasan/MOMlabsim)
 - [Контролери та їх програмне забезпечення Модуль 2](https://github.com/pupenasan/kpz2)
 - [Комп'ютерні мережі та розподілені системи](https://github.com/pupenasan/cmputernetwork)
+- [Моніторинг виробничих операцій](https://github.com/pupenasan/monitorproduction)
 
 Колись вів дисципліни:
 
