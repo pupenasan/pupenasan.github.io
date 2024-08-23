@@ -13,6 +13,8 @@
 - [YouTube](https://www.youtube.com/c/OleksandrPupena)
 - канал Телеграм https://t.me/+7n6AhGnkEuM1MmJi
 
+- спільнота [АСУ в Україні Whatsapp](https://chat.whatsapp.com/C7SHk4H3OCo9C6OXFFejdn)
+
 - [Резюме (CV)](cv.md)
 
 ## Дисципліни
@@ -36,6 +38,8 @@
 - [Batch Control](https://github.com/pupenasan/batchcontrol)
 
 ## Електронні посібники та довідники
+
+- [Автоматизація технологічних процесів та виробництв](https://asu-in-ua.github.io/atpv/)  - wе варіант “народного” посібника-довідника, що доповнюється усіма  бажаючими спеціалістами, за умови проходження попередньої редакції.
 
 - [Промислові мережі та інтеграційні технології](https://pupenasan.github.io/fieldbusbook/2010/)
 - [Розроблення людино-машинних інтерфейсів та систем збирання даних з використанням програмних засобів SCADA/HMI](https://pupenasan.github.io/hmibook/)
