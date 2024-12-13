@@ -6,34 +6,40 @@
 
 [Веб версія](https://pupenasan.github.io/)
 
-- Asoc. professor National University of Food Technologies, Kyiv, Ukraine. The [Automation and Computer Technologies of Control Systems Department](https://www.iasu-nuft.pp.ua/staff)
-- Member [i4u](https://www.i4u.in.ua/team).
-- [Linkedin](https://www.linkedin.com/in/oleksandr-pupena-67aa0b33/)
-- [Facebook](https://www.facebook.com/fieldbusbook)
-- [YouTube](https://www.youtube.com/c/OleksandrPupena)
-- канал Телеграм https://t.me/+7n6AhGnkEuM1MmJi
+- Доцент кафедри [АКТСУ](https://www.iasu-nuft.pp.ua/staff) Національного університету харчових технологій, Київ, Україна 
+- Член [i4u](https://www.i4u.in.ua/team) 
+- ФОП з 2023 року
+- Соц. мережі і месенджери:
+  - [Linkedin](https://www.linkedin.com/in/oleksandr-pupena-67aa0b33/)
+  - [Facebook](https://www.facebook.com/fieldbusbook)
+  - [YouTube](https://www.youtube.com/c/OleksandrPupena)
+  - Telegram channel  https://t.me/+7n6AhGnkEuM1MmJi
 
-- спільнота [АСУ в Україні Whatsapp](https://chat.whatsapp.com/C7SHk4H3OCo9C6OXFFejdn)
+  - спільнота [АСУ в Україні Whatsapp](https://chat.whatsapp.com/C7SHk4H3OCo9C6OXFFejdn)
 
 - [Резюме (CV)](cv.md)
 
 ## Дисципліни
 
-- [Людино-машинні інтерфейси](https://github.com/pupenasan/hmi)
+Веду зараз:
+
 - [Програмна інженерія в системах управління](https://github.com/pupenasan/ProgIngContrSystems)
   - [Простий приклад для курсового проекту](https://github.com/pupenasan/pikursexmpl)
 - [Технології Індустрії 4.0](https://github.com/pupenasan/TI40)
 - [Розробка і імітаційне моделювання інтегрованих систем керування](https://github.com/pupenasan/rimit)
 - [Автоматизовані системи управління (MES рівень)](https://pupenasan.github.io/MOMdisc/)
   - [імітатор обєкту на Node-RED для лабораторних робіт MOM](https://github.com/pupenasan/MOMlabsim)
-- [Контролери та їх програмне забезпечення Модуль 2](https://github.com/pupenasan/kpz2)
 - [Комп'ютерні мережі та розподілені системи](https://github.com/pupenasan/cmputernetwork)
+- [Стратегія цифровізації промислових підприємств](https://pupenasan.github.io/digitalntransform/)
+
+Колись вів:
+
+- [Людино-машинні інтерфейси](https://github.com/pupenasan/hmi)
 - [Моніторинг виробничих операцій](https://github.com/pupenasan/monitorproduction)
-
-Колись вів дисципліни:
-
+- [Контролери та їх програмне забезпечення Модуль 2](https://github.com/pupenasan/kpz2)
 - [Промислові мережі](https://github.com/pupenasan/fieldbus)
-- [Проектування компютерно-іентгрованих систем керування](https://github.com/pupenasan/pkis)
+
+- [Проектування комп'ютерно-іентгрованих систем керування](https://github.com/pupenasan/pkis)
 
 - [Batch Control](https://github.com/pupenasan/batchcontrol)
 
@@ -62,7 +68,36 @@
 
 - PLC programmer: S7 (Step7 TIA Portal), Shcneider Electric (Unity PRO/Control Expert, Machine Expert and other) 
 - SCADA programmer: Aveva Plant SCADA/SCADA Citect, zenon, WinCC Comfort
-- fieldbus
-- I40/IIoT: Node-RED, MQTT, OPC UA
+- Fieldbuses
+- LoCode: Node-RED, Appsmith, Ubos 
+- I40/IIoT: MQTT, OPC UA
 - standards: ISA-88, ISA-95, ISA-101, ISA-18.2 and IEC analogs 
 - computer programming languages:  VB/VBA, JS        
+
+## Портфоліо
+
+До відкриття ФОП приймав участь в багатьох проектах здебільшого як програміст АСКТП (PLC, SCADA), зокрема на обєктах:
+
+- цукрового виробництва (дифузійне, сокоочистка, випарка, вакуум-апарати продуктового відділення)
+- цільномолочне виробництво
+- воодочистка
+- НБК ОУ
+- хімічне виробництво
+- газорозподіл
+- інші
+
+У якості ФОП надаю послуги по розробленню та впровадженню прикладного ПЗ:
+
+- молочне виробництво - прямий підряд Яготинський маслозавод (постійний замовник)
+- олійне виробництво (у субпідряді)
+- веб-диспетчеризація водоканалу на базі IIoT (у субпідряді) 
+- веб-кабінет власників автомийок самообслуговування на базі IIoT, прямий підряд Premium Wash (постійний замовник)
+  - [Кейс цифровізації: електронний кабінет власника автомийок самообслуговування](portfolio/premiumwash1.md)
+
+- збір даних, обробка, збереження на краю (Edge), інтегрування з IT-системами та платформами через HTTP REST, MQTT або інші способи - періодичні підряди від різних компаній    
+
+Надаю послуги викладача:
+
+- в навчальному центрі Шнейдер Електрик Україна
+- в навчальному центрі Фесто Дидактика Україна
+- індивідуально (20 USD/годину
