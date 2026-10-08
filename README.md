@@ -12,11 +12,13 @@
   - [Linkedin](https://www.linkedin.com/in/oleksandr-pupena-67aa0b33/)
   - [Facebook](https://www.facebook.com/fieldbusbook)
   - [YouTube](https://www.youtube.com/c/OleksandrPupena)
-  - Telegram channel  https://t.me/+7n6AhGnkEuM1MmJi
+  - Телеграм канал https://t.me/+7n6AhGnkEuM1MmJi
 
   - спільнота [АСУ в Україні Whatsapp](https://chat.whatsapp.com/C7SHk4H3OCo9C6OXFFejdn)
 
 - [Резюме (CV)](cv.md)
+
+- [Портфоліо рішень](portfolio/README.md)
 
 ## Дисципліни
 
